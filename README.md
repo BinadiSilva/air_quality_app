@@ -5,7 +5,6 @@ An AI-powered web application developed using **Python**, **Machine Learning**, 
 > **Academic Project**  
 > Developed as part of **IT3051 – Fundamentals of Data Mining** during **3rd Year, 1st Semester** at the **Sri Lanka Institute of Information Technology (SLIIT)**.
 
----
 
 ## 📌 Project Overview
 
@@ -18,7 +17,6 @@ The system enables users to:
 - Receive health recommendations based on predicted air quality
 - Send air quality alerts via email
 
----
 
 ## ✨ Features
 
@@ -34,7 +32,6 @@ The system enables users to:
 - 📧 Email Alert System
 - 🖥️ Interactive Streamlit Web Interface
 
----
 
 ## 🛠️ Technologies Used
 
@@ -47,7 +44,6 @@ The system enables users to:
 - Machine Learning
 - Data Mining
 
----
 
 ## 🧠 Machine Learning Model
 
@@ -66,7 +62,6 @@ The application utilizes a **Random Forest Regressor** to predict pollutant valu
 - Root Mean Squared Error (RMSE)
 - R² Score
 
----
 
 ## 📂 Project Structure
 
@@ -96,61 +91,35 @@ air_quality_app/
 └── .streamlit/
 ```
 
----
 
 ## 🚀 Installation
 
 Clone the repository:
-
-```bash
 git clone https://github.com/BinadiSilva/air_quality_app.git
-```
 
 Navigate into the project directory:
-
-```bash
 cd air_quality_app
-```
 
 Create a virtual environment:
-
-```bash
 python -m venv venv
-```
 
 Activate the virtual environment:
 
 ### Windows
-
-```bash
 venv\Scripts\activate
-```
 
 ### macOS / Linux
-
-```bash
 source venv/bin/activate
-```
 
 Install dependencies:
-
-```bash
 pip install -r requirements.txt
-```
 
 Run the application:
-
-```bash
 streamlit run app.py
-```
 
 The application will be available at:
-
-```
 http://localhost:8501
-```
 
----
 
 ## 📷 Application Preview
 
@@ -189,7 +158,6 @@ Provides personalized health recommendations based on predicted AQI.
 
 Allows users to upload an email list and send air quality advisory notifications.
 
----
 
 ## 📊 Dataset
 
@@ -206,7 +174,6 @@ The dataset contains historical air quality information including:
 - Pollutant Measurements
 - AQI Values
 
----
 
 ## 🎯 Learning Outcomes
 
@@ -221,7 +188,6 @@ This project enhanced my practical knowledge in:
 - Streamlit Application Development
 - Predictive Analytics
 
----
 
 ## 🔮 Future Improvements
 
@@ -232,22 +198,6 @@ This project enhanced my practical knowledge in:
 - Cloud deployment
 - Mobile-responsive interface
 
----
-
-## 👩‍💻 Author
-
-**Binadi Silva**
-
-BSc (Hons) in Information Technology Specializing in Data Science  
-Sri Lanka Institute of Information Technology (SLIIT)
-
-GitHub:
-https://github.com/BinadiSilva
-
-LinkedIn:
-(Add your LinkedIn profile URL)
-
----
 
 ## 📜 License
 
